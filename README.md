@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-s02&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-s02" /> </p>
 
-- 🔭 I’m currently working on **Collage Management System**
+- 🔭 I’m currently working on **Student Activity Management System**
 
 - 🌱 I’m currently learning **Asp.net MVC**
 
